@@ -1,6 +1,11 @@
-# WebsocketFrontEnd
+# Webscoket com angular 7 e spring boot
 
-Projeto de exemplo usando websocket, chamando backend springboot
+## Projeto de exemplo usando websocket no angular 7, chamando backend springboot
+
+Link do banckend em springboot (https://github.com/fexx/socket)
+
+
+# Detalhes de execução
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
